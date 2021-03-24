@@ -1,0 +1,1656 @@
+2021-03-24 10:23:09,491 [timo_wrapper] DEBUG: Calling setup on callback.
+2021-03-24 10:23:09,491 [timo_code] DEBUG: Successfully entered setup code
+2021-03-24 10:23:09,492 [timo_wrapper] DEBUG: Got result from callback#setup in 0.001s.
+2021-03-24 10:23:09,492 [timo_wrapper] DEBUG: Calling setup_training on callback.
+2021-03-24 10:23:09,513 [timo_wrapper] DEBUG: Got result from callback#setup_training in 0.021s.
+2021-03-24 10:23:09,615 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:09,616 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-24 10:23:09,616 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:09,616 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:09,617 [timo_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-24 10:23:09,716 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:09,716 [timo_code] INFO: Awarded -0.1 for events MOVED_RIGHT
+2021-03-24 10:23:09,717 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 2
+2021-03-24 10:23:09,719 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:09,720 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:09,720 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:09,720 [timo_code] DEBUG: Choosing action purely at random.
+2021-03-24 10:23:09,720 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:09,818 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:09,818 [timo_code] INFO: Awarded -5 for events INVALID_ACTION
+2021-03-24 10:23:09,819 [timo_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 3
+2021-03-24 10:23:09,822 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.004s.
+2021-03-24 10:23:09,823 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:09,823 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:09,823 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:09,920 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:09,920 [timo_code] INFO: Awarded 19.9 for events MOVED_RIGHT, COIN_COLLECTED
+2021-03-24 10:23:09,921 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT', 'COIN_COLLECTED' in step 4
+2021-03-24 10:23:09,925 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.005s.
+2021-03-24 10:23:09,926 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:09,926 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:09,926 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:10,022 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:10,022 [timo_code] INFO: Awarded -0.1 for events MOVED_RIGHT
+2021-03-24 10:23:10,023 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 5
+2021-03-24 10:23:10,025 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:10,025 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:10,025 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:10,025 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:10,124 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:10,124 [timo_code] INFO: Awarded -0.1 for events MOVED_RIGHT
+2021-03-24 10:23:10,124 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 6
+2021-03-24 10:23:10,126 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:10,126 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:10,126 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:10,127 [timo_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-24 10:23:10,225 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:10,225 [timo_code] INFO: Awarded -0.1 for events MOVED_RIGHT
+2021-03-24 10:23:10,226 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 7
+2021-03-24 10:23:10,228 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:10,232 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:10,232 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:10,232 [timo_code] DEBUG: Choosing action purely at random.
+2021-03-24 10:23:10,233 [timo_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-24 10:23:10,327 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:10,327 [timo_code] INFO: Awarded -5 for events INVALID_ACTION
+2021-03-24 10:23:10,328 [timo_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 8
+2021-03-24 10:23:10,331 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.005s.
+2021-03-24 10:23:10,331 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:10,331 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:10,331 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:10,428 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:10,428 [timo_code] INFO: Awarded 19.9 for events MOVED_RIGHT, COIN_COLLECTED
+2021-03-24 10:23:10,429 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT', 'COIN_COLLECTED' in step 9
+2021-03-24 10:23:10,434 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.006s.
+2021-03-24 10:23:10,434 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:10,434 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:10,434 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:10,529 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:10,529 [timo_code] INFO: Awarded -0.1 for events MOVED_RIGHT
+2021-03-24 10:23:10,530 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 10
+2021-03-24 10:23:10,532 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:10,532 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:10,532 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:10,532 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:10,629 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:10,629 [timo_code] INFO: Awarded -0.1 for events MOVED_RIGHT
+2021-03-24 10:23:10,630 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 11
+2021-03-24 10:23:10,632 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:10,632 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:10,632 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:10,632 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:10,730 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:10,730 [timo_code] INFO: Awarded -0.1 for events MOVED_RIGHT
+2021-03-24 10:23:10,731 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 12
+2021-03-24 10:23:10,734 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:10,734 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:10,734 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:10,735 [timo_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-24 10:23:10,831 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:10,831 [timo_code] INFO: Awarded -0.1 for events MOVED_RIGHT
+2021-03-24 10:23:10,832 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 13
+2021-03-24 10:23:10,834 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:10,834 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:10,834 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:10,834 [timo_code] DEBUG: Choosing action purely at random.
+2021-03-24 10:23:10,834 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:10,934 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:10,934 [timo_code] INFO: Awarded -0.1 for events MOVED_RIGHT
+2021-03-24 10:23:10,935 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 14
+2021-03-24 10:23:10,938 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:10,938 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:10,939 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:10,939 [timo_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-24 10:23:11,036 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:11,036 [timo_code] INFO: Awarded -0.1 for events MOVED_RIGHT
+2021-03-24 10:23:11,037 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 15
+2021-03-24 10:23:11,040 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.004s.
+2021-03-24 10:23:11,040 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:11,040 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:11,040 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:11,138 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:11,138 [timo_code] INFO: Awarded 19.9 for events MOVED_RIGHT, COIN_COLLECTED
+2021-03-24 10:23:11,139 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT', 'COIN_COLLECTED' in step 16
+2021-03-24 10:23:11,147 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.010s.
+2021-03-24 10:23:11,147 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:11,147 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:11,147 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:11,239 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:11,239 [timo_code] INFO: Awarded -0.1 for events MOVED_RIGHT
+2021-03-24 10:23:11,240 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 17
+2021-03-24 10:23:11,242 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:11,242 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:11,242 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:11,242 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:11,339 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:11,339 [timo_code] INFO: Awarded -0.1 for events MOVED_UP
+2021-03-24 10:23:11,340 [timo_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 18
+2021-03-24 10:23:11,342 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:11,342 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:11,342 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:11,342 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:11,441 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:11,441 [timo_code] INFO: Awarded -0.1 for events MOVED_UP
+2021-03-24 10:23:11,442 [timo_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 19
+2021-03-24 10:23:11,444 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:11,444 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:11,444 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:11,444 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:11,541 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:11,541 [timo_code] INFO: Awarded -0.1 for events MOVED_LEFT
+2021-03-24 10:23:11,542 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 20
+2021-03-24 10:23:11,544 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:11,544 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:11,544 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:11,544 [timo_code] DEBUG: Choosing action purely at random.
+2021-03-24 10:23:11,544 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:11,644 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:11,644 [timo_code] INFO: Awarded -0.1 for events MOVED_RIGHT
+2021-03-24 10:23:11,645 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 21
+2021-03-24 10:23:11,647 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:11,647 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:11,647 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:11,647 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:11,744 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:11,744 [timo_code] INFO: Awarded -0.1 for events MOVED_LEFT
+2021-03-24 10:23:11,745 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 22
+2021-03-24 10:23:11,748 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.004s.
+2021-03-24 10:23:11,748 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:11,748 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:11,748 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:11,844 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:11,844 [timo_code] INFO: Awarded -0.1 for events MOVED_LEFT
+2021-03-24 10:23:11,846 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 23
+2021-03-24 10:23:11,851 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.007s.
+2021-03-24 10:23:11,851 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:11,851 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:11,851 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:11,947 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:11,947 [timo_code] INFO: Awarded -0.1 for events MOVED_LEFT
+2021-03-24 10:23:11,949 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 24
+2021-03-24 10:23:11,950 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:11,950 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:11,950 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:11,951 [timo_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-24 10:23:12,049 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:12,049 [timo_code] INFO: Awarded -0.1 for events MOVED_RIGHT
+2021-03-24 10:23:12,050 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 25
+2021-03-24 10:23:12,052 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:12,052 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:12,052 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:12,052 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:12,150 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:12,150 [timo_code] INFO: Awarded -0.1 for events MOVED_LEFT
+2021-03-24 10:23:12,151 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 26
+2021-03-24 10:23:12,157 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.008s.
+2021-03-24 10:23:12,157 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:12,157 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:12,163 [timo_wrapper] DEBUG: Got result from callback#act in 0.005s.
+2021-03-24 10:23:12,250 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:12,250 [timo_code] INFO: Awarded -0.1 for events MOVED_LEFT
+2021-03-24 10:23:12,251 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 27
+2021-03-24 10:23:12,253 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:12,253 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:12,253 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:12,253 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:12,351 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:12,351 [timo_code] INFO: Awarded -0.1 for events MOVED_UP
+2021-03-24 10:23:12,352 [timo_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 28
+2021-03-24 10:23:12,354 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:12,354 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:12,354 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:12,354 [timo_code] DEBUG: Choosing action purely at random.
+2021-03-24 10:23:12,354 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:12,451 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:12,451 [timo_code] INFO: Awarded -0.1 for events MOVED_DOWN
+2021-03-24 10:23:12,452 [timo_code] DEBUG: Encountered game event(s) 'MOVED_DOWN' in step 29
+2021-03-24 10:23:12,454 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:12,455 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:12,455 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:12,455 [timo_code] DEBUG: Choosing action purely at random.
+2021-03-24 10:23:12,455 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:12,552 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:12,552 [timo_code] INFO: Awarded -0.1 for events MOVED_UP
+2021-03-24 10:23:12,553 [timo_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 30
+2021-03-24 10:23:12,555 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:12,556 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:12,556 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:12,556 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:12,654 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:12,654 [timo_code] INFO: Awarded -0.1 for events MOVED_UP
+2021-03-24 10:23:12,655 [timo_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 31
+2021-03-24 10:23:12,658 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:12,658 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:12,658 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:12,659 [timo_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-24 10:23:12,755 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:12,755 [timo_code] INFO: Awarded -0.1 for events MOVED_LEFT
+2021-03-24 10:23:12,756 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 32
+2021-03-24 10:23:12,759 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:12,759 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:12,759 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:12,759 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:12,857 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:12,857 [timo_code] INFO: Awarded -0.1 for events MOVED_RIGHT
+2021-03-24 10:23:12,858 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 33
+2021-03-24 10:23:12,860 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:12,860 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:12,860 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:12,860 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:12,958 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:12,958 [timo_code] INFO: Awarded 19.9 for events MOVED_UP, COIN_COLLECTED
+2021-03-24 10:23:12,959 [timo_code] DEBUG: Encountered game event(s) 'MOVED_UP', 'COIN_COLLECTED' in step 34
+2021-03-24 10:23:12,961 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:12,962 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:12,962 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:12,962 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:13,059 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:13,059 [timo_code] INFO: Awarded -0.1 for events MOVED_UP
+2021-03-24 10:23:13,060 [timo_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 35
+2021-03-24 10:23:13,062 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:13,062 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:13,062 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:13,062 [timo_code] DEBUG: Choosing action purely at random.
+2021-03-24 10:23:13,062 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:13,161 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:13,161 [timo_code] INFO: Awarded -0.1 for events MOVED_RIGHT
+2021-03-24 10:23:13,163 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 36
+2021-03-24 10:23:13,164 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.002s.
+2021-03-24 10:23:13,164 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:13,164 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:13,165 [timo_code] DEBUG: Choosing action purely at random.
+2021-03-24 10:23:13,165 [timo_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-24 10:23:13,263 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:13,263 [timo_code] INFO: Awarded -5 for events INVALID_ACTION
+2021-03-24 10:23:13,264 [timo_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 37
+2021-03-24 10:23:13,267 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.004s.
+2021-03-24 10:23:13,268 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:13,268 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:13,268 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:13,364 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:13,364 [timo_code] INFO: Awarded -0.1 for events MOVED_LEFT
+2021-03-24 10:23:13,366 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 38
+2021-03-24 10:23:13,367 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:13,367 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:13,367 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:13,368 [timo_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-24 10:23:13,466 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:13,466 [timo_code] INFO: Awarded -0.1 for events MOVED_LEFT
+2021-03-24 10:23:13,467 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 39
+2021-03-24 10:23:13,468 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:13,469 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:13,469 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:13,469 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:13,567 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:13,567 [timo_code] INFO: Awarded -0.1 for events MOVED_LEFT
+2021-03-24 10:23:13,568 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 40
+2021-03-24 10:23:13,570 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:13,570 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:13,570 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:13,570 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:13,668 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:13,668 [timo_code] INFO: Awarded -0.1 for events MOVED_UP
+2021-03-24 10:23:13,669 [timo_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 41
+2021-03-24 10:23:13,670 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.002s.
+2021-03-24 10:23:13,671 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:13,671 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:13,671 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:13,768 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:13,768 [timo_code] INFO: Awarded -0.1 for events MOVED_UP
+2021-03-24 10:23:13,769 [timo_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 42
+2021-03-24 10:23:13,771 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:13,771 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:13,771 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:13,772 [timo_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-24 10:23:13,870 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:13,870 [timo_code] INFO: Awarded -0.1 for events MOVED_RIGHT
+2021-03-24 10:23:13,871 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 43
+2021-03-24 10:23:13,873 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.004s.
+2021-03-24 10:23:13,873 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:13,873 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:13,873 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:13,972 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:13,972 [timo_code] INFO: Awarded -0.1 for events MOVED_RIGHT
+2021-03-24 10:23:13,974 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 44
+2021-03-24 10:23:13,975 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:13,976 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:13,976 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:13,976 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:14,075 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:14,075 [timo_code] INFO: Awarded -0.1 for events MOVED_UP
+2021-03-24 10:23:14,076 [timo_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 45
+2021-03-24 10:23:14,077 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:14,078 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:14,078 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:14,078 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:14,186 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:14,188 [timo_code] INFO: Awarded -0.1 for events MOVED_UP
+2021-03-24 10:23:14,194 [timo_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 46
+2021-03-24 10:23:14,197 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.010s.
+2021-03-24 10:23:14,197 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:14,197 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:14,198 [timo_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-24 10:23:14,286 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:14,286 [timo_code] INFO: Awarded -0.1 for events MOVED_UP
+2021-03-24 10:23:14,287 [timo_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 47
+2021-03-24 10:23:14,290 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.004s.
+2021-03-24 10:23:14,290 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:14,290 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:14,290 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:14,388 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:14,388 [timo_code] INFO: Awarded -0.1 for events MOVED_DOWN
+2021-03-24 10:23:14,389 [timo_code] DEBUG: Encountered game event(s) 'MOVED_DOWN' in step 48
+2021-03-24 10:23:14,391 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:14,391 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:14,391 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:14,391 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:14,489 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:14,489 [timo_code] INFO: Awarded -0.1 for events MOVED_RIGHT
+2021-03-24 10:23:14,490 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 49
+2021-03-24 10:23:14,493 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.004s.
+2021-03-24 10:23:14,493 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:14,493 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:14,493 [timo_code] DEBUG: Choosing action purely at random.
+2021-03-24 10:23:14,493 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:14,590 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:14,590 [timo_code] INFO: Awarded -0.1 for events MOVED_LEFT
+2021-03-24 10:23:14,591 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 50
+2021-03-24 10:23:14,593 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:14,593 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:14,593 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:14,593 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:14,691 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:14,691 [timo_code] INFO: Awarded 19.9 for events MOVED_LEFT, COIN_COLLECTED
+2021-03-24 10:23:14,692 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT', 'COIN_COLLECTED' in step 51
+2021-03-24 10:23:14,696 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.005s.
+2021-03-24 10:23:14,696 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:14,696 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:14,697 [timo_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-24 10:23:14,793 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:14,793 [timo_code] INFO: Awarded -0.1 for events MOVED_LEFT
+2021-03-24 10:23:14,794 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 52
+2021-03-24 10:23:14,796 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:14,796 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:14,796 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:14,797 [timo_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-24 10:23:14,894 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:14,894 [timo_code] INFO: Awarded -0.1 for events MOVED_RIGHT
+2021-03-24 10:23:14,895 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 53
+2021-03-24 10:23:14,897 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:14,897 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:14,898 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:14,898 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:14,996 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:14,996 [timo_code] INFO: Awarded -0.1 for events MOVED_LEFT
+2021-03-24 10:23:14,997 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 54
+2021-03-24 10:23:15,000 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.004s.
+2021-03-24 10:23:15,000 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:15,000 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:15,000 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:15,097 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:15,097 [timo_code] INFO: Awarded -0.1 for events MOVED_DOWN
+2021-03-24 10:23:15,101 [timo_code] DEBUG: Encountered game event(s) 'MOVED_DOWN' in step 55
+2021-03-24 10:23:15,104 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.007s.
+2021-03-24 10:23:15,104 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:15,104 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:15,104 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:15,199 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:15,199 [timo_code] INFO: Awarded -0.1 for events MOVED_DOWN
+2021-03-24 10:23:15,200 [timo_code] DEBUG: Encountered game event(s) 'MOVED_DOWN' in step 56
+2021-03-24 10:23:15,202 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:15,202 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:15,202 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:15,202 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:15,299 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:15,299 [timo_code] INFO: Awarded -0.1 for events MOVED_DOWN
+2021-03-24 10:23:15,300 [timo_code] DEBUG: Encountered game event(s) 'MOVED_DOWN' in step 57
+2021-03-24 10:23:15,303 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:15,303 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:15,303 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:15,303 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:15,400 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:15,400 [timo_code] INFO: Awarded -0.1 for events MOVED_UP
+2021-03-24 10:23:15,402 [timo_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 58
+2021-03-24 10:23:15,403 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:15,403 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:15,403 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:15,403 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:15,501 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:15,501 [timo_code] INFO: Awarded -0.1 for events MOVED_DOWN
+2021-03-24 10:23:15,502 [timo_code] DEBUG: Encountered game event(s) 'MOVED_DOWN' in step 59
+2021-03-24 10:23:15,504 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:15,505 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:15,505 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:15,505 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:15,601 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:15,601 [timo_code] INFO: Awarded -0.1 for events MOVED_UP
+2021-03-24 10:23:15,602 [timo_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 60
+2021-03-24 10:23:15,605 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.004s.
+2021-03-24 10:23:15,605 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:15,605 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:15,606 [timo_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-24 10:23:15,704 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:15,704 [timo_code] INFO: Awarded -0.1 for events MOVED_RIGHT
+2021-03-24 10:23:15,704 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 61
+2021-03-24 10:23:15,708 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.004s.
+2021-03-24 10:23:15,708 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:15,708 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:15,708 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:15,805 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:15,805 [timo_code] INFO: Awarded -0.1 for events MOVED_RIGHT
+2021-03-24 10:23:15,807 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 62
+2021-03-24 10:23:15,809 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.004s.
+2021-03-24 10:23:15,809 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:15,809 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:15,810 [timo_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-24 10:23:15,906 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:15,906 [timo_code] INFO: Awarded -0.1 for events MOVED_DOWN
+2021-03-24 10:23:15,907 [timo_code] DEBUG: Encountered game event(s) 'MOVED_DOWN' in step 63
+2021-03-24 10:23:15,910 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.004s.
+2021-03-24 10:23:15,910 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:15,910 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:15,910 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:16,007 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:16,007 [timo_code] INFO: Awarded -0.1 for events MOVED_UP
+2021-03-24 10:23:16,008 [timo_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 64
+2021-03-24 10:23:16,010 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:16,010 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:16,010 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:16,010 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:16,108 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:16,108 [timo_code] INFO: Awarded -0.1 for events MOVED_DOWN
+2021-03-24 10:23:16,109 [timo_code] DEBUG: Encountered game event(s) 'MOVED_DOWN' in step 65
+2021-03-24 10:23:16,112 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.004s.
+2021-03-24 10:23:16,112 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:16,112 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:16,112 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:16,210 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:16,210 [timo_code] INFO: Awarded -0.1 for events MOVED_UP
+2021-03-24 10:23:16,211 [timo_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 66
+2021-03-24 10:23:16,213 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:16,214 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:16,214 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:16,214 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:16,311 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:16,311 [timo_code] INFO: Awarded -0.1 for events MOVED_LEFT
+2021-03-24 10:23:16,312 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 67
+2021-03-24 10:23:16,314 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:16,314 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:16,314 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:16,315 [timo_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-24 10:23:16,412 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:16,412 [timo_code] INFO: Awarded -0.1 for events MOVED_LEFT
+2021-03-24 10:23:16,413 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 68
+2021-03-24 10:23:16,415 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:16,415 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:16,415 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:16,415 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:16,512 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:16,512 [timo_code] INFO: Awarded -0.1 for events MOVED_LEFT
+2021-03-24 10:23:16,513 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 69
+2021-03-24 10:23:16,515 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:16,515 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:16,515 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:16,515 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:16,614 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:16,614 [timo_code] INFO: Awarded -0.1 for events MOVED_LEFT
+2021-03-24 10:23:16,615 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 70
+2021-03-24 10:23:16,616 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.002s.
+2021-03-24 10:23:16,617 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:16,617 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:16,617 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:16,719 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:16,720 [timo_code] INFO: Awarded 19.9 for events MOVED_DOWN, COIN_COLLECTED
+2021-03-24 10:23:16,721 [timo_code] DEBUG: Encountered game event(s) 'MOVED_DOWN', 'COIN_COLLECTED' in step 71
+2021-03-24 10:23:16,727 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.008s.
+2021-03-24 10:23:16,727 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:16,727 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:16,728 [timo_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-24 10:23:16,818 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:16,818 [timo_code] INFO: Awarded -0.1 for events MOVED_DOWN
+2021-03-24 10:23:16,819 [timo_code] DEBUG: Encountered game event(s) 'MOVED_DOWN' in step 72
+2021-03-24 10:23:16,821 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:16,821 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:16,821 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:16,821 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:16,920 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:16,920 [timo_code] INFO: Awarded -0.1 for events MOVED_LEFT
+2021-03-24 10:23:16,921 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 73
+2021-03-24 10:23:16,923 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:16,924 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:16,924 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:16,924 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:17,020 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:17,020 [timo_code] INFO: Awarded -0.1 for events MOVED_LEFT
+2021-03-24 10:23:17,021 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 74
+2021-03-24 10:23:17,023 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:17,024 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:17,024 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:17,024 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:17,122 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:17,122 [timo_code] INFO: Awarded -0.1 for events MOVED_UP
+2021-03-24 10:23:17,124 [timo_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 75
+2021-03-24 10:23:17,126 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:17,126 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:17,126 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:17,129 [timo_wrapper] DEBUG: Got result from callback#act in 0.003s.
+2021-03-24 10:23:17,223 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:17,223 [timo_code] INFO: Awarded -0.1 for events MOVED_DOWN
+2021-03-24 10:23:17,224 [timo_code] DEBUG: Encountered game event(s) 'MOVED_DOWN' in step 76
+2021-03-24 10:23:17,226 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:17,226 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:17,226 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:17,227 [timo_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-24 10:23:17,324 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:17,324 [timo_code] INFO: Awarded -0.1 for events MOVED_LEFT
+2021-03-24 10:23:17,326 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 77
+2021-03-24 10:23:17,327 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:17,328 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:17,328 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:17,328 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:17,426 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:17,426 [timo_code] INFO: Awarded -0.1 for events MOVED_LEFT
+2021-03-24 10:23:17,428 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 78
+2021-03-24 10:23:17,429 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:17,429 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:17,429 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:17,429 [timo_code] DEBUG: Choosing action purely at random.
+2021-03-24 10:23:17,429 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:17,529 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:17,529 [timo_code] INFO: Awarded -0.1 for events MOVED_LEFT
+2021-03-24 10:23:17,530 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 79
+2021-03-24 10:23:17,532 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:17,532 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:17,533 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:17,533 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:17,633 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:17,633 [timo_code] INFO: Awarded -0.1 for events MOVED_RIGHT
+2021-03-24 10:23:17,634 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 80
+2021-03-24 10:23:17,636 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.002s.
+2021-03-24 10:23:17,637 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:17,637 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:17,637 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:17,735 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:17,735 [timo_code] INFO: Awarded 19.9 for events MOVED_UP, COIN_COLLECTED
+2021-03-24 10:23:17,736 [timo_code] DEBUG: Encountered game event(s) 'MOVED_UP', 'COIN_COLLECTED' in step 81
+2021-03-24 10:23:17,739 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:17,739 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:17,739 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:17,740 [timo_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-24 10:23:17,835 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:17,835 [timo_code] INFO: Awarded -0.1 for events MOVED_UP
+2021-03-24 10:23:17,836 [timo_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 82
+2021-03-24 10:23:17,838 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:17,839 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:17,839 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:17,839 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:17,936 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:17,936 [timo_code] INFO: Awarded -0.1 for events MOVED_UP
+2021-03-24 10:23:17,937 [timo_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 83
+2021-03-24 10:23:17,939 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:17,940 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:17,940 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:17,940 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:18,038 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:18,038 [timo_code] INFO: Awarded -0.1 for events MOVED_UP
+2021-03-24 10:23:18,039 [timo_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 84
+2021-03-24 10:23:18,041 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:18,041 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:18,041 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:18,041 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:18,139 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:18,140 [timo_code] INFO: Awarded -0.1 for events MOVED_LEFT
+2021-03-24 10:23:18,141 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 85
+2021-03-24 10:23:18,143 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.004s.
+2021-03-24 10:23:18,143 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:18,143 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:18,144 [timo_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-24 10:23:18,241 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:18,242 [timo_code] INFO: Awarded -0.1 for events MOVED_RIGHT
+2021-03-24 10:23:18,242 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 86
+2021-03-24 10:23:18,244 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:18,244 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:18,244 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:18,244 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:18,341 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:18,341 [timo_code] INFO: Awarded -0.1 for events MOVED_LEFT
+2021-03-24 10:23:18,342 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 87
+2021-03-24 10:23:18,348 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.007s.
+2021-03-24 10:23:18,348 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:18,348 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:18,348 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:18,444 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:18,444 [timo_code] INFO: Awarded -0.1 for events MOVED_LEFT
+2021-03-24 10:23:18,445 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 88
+2021-03-24 10:23:18,447 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.004s.
+2021-03-24 10:23:18,447 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:18,447 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:18,447 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:18,545 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:18,545 [timo_code] INFO: Awarded -0.1 for events MOVED_UP
+2021-03-24 10:23:18,546 [timo_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 89
+2021-03-24 10:23:18,548 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.004s.
+2021-03-24 10:23:18,548 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:18,548 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:18,548 [timo_code] DEBUG: Choosing action purely at random.
+2021-03-24 10:23:18,548 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:18,647 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:18,647 [timo_code] INFO: Awarded -0.1 for events MOVED_DOWN
+2021-03-24 10:23:18,648 [timo_code] DEBUG: Encountered game event(s) 'MOVED_DOWN' in step 90
+2021-03-24 10:23:18,650 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:18,650 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:18,650 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:18,650 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:18,747 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:18,747 [timo_code] INFO: Awarded -0.1 for events MOVED_UP
+2021-03-24 10:23:18,749 [timo_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 91
+2021-03-24 10:23:18,751 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.004s.
+2021-03-24 10:23:18,751 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:18,751 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:18,751 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:18,848 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:18,848 [timo_code] INFO: Awarded 19.9 for events MOVED_UP, COIN_COLLECTED
+2021-03-24 10:23:18,849 [timo_code] DEBUG: Encountered game event(s) 'MOVED_UP', 'COIN_COLLECTED' in step 92
+2021-03-24 10:23:18,852 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.004s.
+2021-03-24 10:23:18,852 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:18,852 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:18,852 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:18,950 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:18,950 [timo_code] INFO: Awarded -0.1 for events MOVED_RIGHT
+2021-03-24 10:23:18,951 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 93
+2021-03-24 10:23:18,953 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:18,953 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:18,953 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:18,953 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:19,052 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:19,052 [timo_code] INFO: Awarded -0.1 for events MOVED_RIGHT
+2021-03-24 10:23:19,053 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 94
+2021-03-24 10:23:19,055 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:19,055 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:19,055 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:19,056 [timo_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-24 10:23:19,155 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:19,155 [timo_code] INFO: Awarded -0.1 for events MOVED_RIGHT
+2021-03-24 10:23:19,156 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 95
+2021-03-24 10:23:19,158 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.004s.
+2021-03-24 10:23:19,158 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:19,158 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:19,158 [timo_code] DEBUG: Choosing action purely at random.
+2021-03-24 10:23:19,158 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:19,256 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:19,256 [timo_code] INFO: Awarded -5 for events INVALID_ACTION
+2021-03-24 10:23:19,257 [timo_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 96
+2021-03-24 10:23:19,263 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.007s.
+2021-03-24 10:23:19,263 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:19,263 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:19,263 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:19,357 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:19,357 [timo_code] INFO: Awarded -0.1 for events MOVED_RIGHT
+2021-03-24 10:23:19,358 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 97
+2021-03-24 10:23:19,360 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:19,360 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:19,360 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:19,360 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:19,459 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:19,459 [timo_code] INFO: Awarded -0.1 for events MOVED_UP
+2021-03-24 10:23:19,460 [timo_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 98
+2021-03-24 10:23:19,461 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:19,461 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:19,461 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:19,461 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:19,561 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:19,561 [timo_code] INFO: Awarded -0.1 for events MOVED_DOWN
+2021-03-24 10:23:19,562 [timo_code] DEBUG: Encountered game event(s) 'MOVED_DOWN' in step 99
+2021-03-24 10:23:19,564 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.002s.
+2021-03-24 10:23:19,564 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:19,564 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:19,564 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:19,662 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:19,662 [timo_code] INFO: Awarded -0.1 for events MOVED_RIGHT
+2021-03-24 10:23:19,663 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 100
+2021-03-24 10:23:19,664 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.002s.
+2021-03-24 10:23:19,665 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:19,665 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:19,665 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:19,763 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:19,763 [timo_code] INFO: Awarded -0.1 for events MOVED_RIGHT
+2021-03-24 10:23:19,764 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 101
+2021-03-24 10:23:19,766 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:19,766 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:19,766 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:19,766 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:19,863 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:19,863 [timo_code] INFO: Awarded -0.1 for events MOVED_RIGHT
+2021-03-24 10:23:19,864 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 102
+2021-03-24 10:23:19,865 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.002s.
+2021-03-24 10:23:19,865 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:19,866 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:19,866 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:19,965 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:19,965 [timo_code] INFO: Awarded -0.1 for events MOVED_RIGHT
+2021-03-24 10:23:19,966 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 103
+2021-03-24 10:23:19,968 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:19,968 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:19,968 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:19,968 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:20,066 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:20,066 [timo_code] INFO: Awarded -0.1 for events MOVED_RIGHT
+2021-03-24 10:23:20,067 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 104
+2021-03-24 10:23:20,069 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:20,069 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:20,069 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:20,069 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:20,168 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:20,168 [timo_code] INFO: Awarded -0.1 for events MOVED_RIGHT
+2021-03-24 10:23:20,169 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 105
+2021-03-24 10:23:20,170 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.002s.
+2021-03-24 10:23:20,174 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:20,174 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:20,174 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:20,270 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:20,270 [timo_code] INFO: Awarded -0.1 for events MOVED_RIGHT
+2021-03-24 10:23:20,271 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 106
+2021-03-24 10:23:20,273 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:20,273 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:20,273 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:20,273 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:20,370 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:23:20,370 [timo_code] INFO: Awarded -0.1 for events MOVED_RIGHT
+2021-03-24 10:23:20,371 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 107
+2021-03-24 10:23:20,373 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:23:20,374 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:23:20,374 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:23:20,374 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:23:20,374 [timo_wrapper] DEBUG: Calling end_of_round on callback.
+2021-03-24 10:23:20,374 [timo_code] DEBUG: Encountered event(s) 'MOVED_RIGHT', 'COIN_COLLECTED', 'SURVIVED_ROUND' in final step
+2021-03-24 10:23:20,374 [timo_code] INFO: Awarded 19.9 for events MOVED_RIGHT, COIN_COLLECTED, SURVIVED_ROUND
+2021-03-24 10:23:20,382 [timo_wrapper] DEBUG: Got result from callback#end_of_round in 0.008s.
+2021-03-24 10:25:02,649 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:02,650 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-24 10:25:02,650 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:02,650 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:02,650 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:02,750 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:02,750 [timo_code] INFO: Awarded -0.1 for events MOVED_UP
+2021-03-24 10:25:02,751 [timo_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 2
+2021-03-24 10:25:02,753 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:25:02,753 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:02,753 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:02,753 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:02,850 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:02,850 [timo_code] INFO: Awarded -0.1 for events MOVED_UP
+2021-03-24 10:25:02,851 [timo_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 3
+2021-03-24 10:25:02,853 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:25:02,853 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:02,853 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:02,858 [timo_wrapper] DEBUG: Got result from callback#act in 0.004s.
+2021-03-24 10:25:02,951 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:02,951 [timo_code] INFO: Awarded -5 for events INVALID_ACTION
+2021-03-24 10:25:02,952 [timo_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 4
+2021-03-24 10:25:02,954 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.004s.
+2021-03-24 10:25:02,955 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:02,955 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:02,955 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:03,052 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:03,052 [timo_code] INFO: Awarded -0.1 for events MOVED_UP
+2021-03-24 10:25:03,053 [timo_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 5
+2021-03-24 10:25:03,056 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.004s.
+2021-03-24 10:25:03,056 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:03,056 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:03,056 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:03,154 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:03,154 [timo_code] INFO: Awarded 19.9 for events MOVED_UP, COIN_COLLECTED
+2021-03-24 10:25:03,155 [timo_code] DEBUG: Encountered game event(s) 'MOVED_UP', 'COIN_COLLECTED' in step 6
+2021-03-24 10:25:03,161 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.007s.
+2021-03-24 10:25:03,161 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:03,161 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:03,161 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:03,255 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:03,255 [timo_code] INFO: Awarded -0.1 for events MOVED_UP
+2021-03-24 10:25:03,256 [timo_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 7
+2021-03-24 10:25:03,258 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.002s.
+2021-03-24 10:25:03,258 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:03,259 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:03,259 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:03,356 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:03,356 [timo_code] INFO: Awarded -0.1 for events MOVED_UP
+2021-03-24 10:25:03,358 [timo_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 8
+2021-03-24 10:25:03,359 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:25:03,359 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:03,359 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:03,359 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:03,458 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:03,458 [timo_code] INFO: Awarded -0.1 for events MOVED_UP
+2021-03-24 10:25:03,458 [timo_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 9
+2021-03-24 10:25:03,460 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:25:03,460 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:03,460 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:03,461 [timo_code] DEBUG: Choosing action purely at random.
+2021-03-24 10:25:03,461 [timo_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-24 10:25:03,559 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:03,559 [timo_code] INFO: Awarded -5 for events INVALID_ACTION
+2021-03-24 10:25:03,560 [timo_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 10
+2021-03-24 10:25:03,567 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.008s.
+2021-03-24 10:25:03,567 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:03,567 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:03,567 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:03,661 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:03,661 [timo_code] INFO: Awarded -0.1 for events MOVED_DOWN
+2021-03-24 10:25:03,662 [timo_code] DEBUG: Encountered game event(s) 'MOVED_DOWN' in step 11
+2021-03-24 10:25:03,664 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:25:03,664 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:03,664 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:03,664 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:03,762 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:03,762 [timo_code] INFO: Awarded -0.1 for events MOVED_LEFT
+2021-03-24 10:25:03,763 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 12
+2021-03-24 10:25:03,764 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:25:03,764 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:03,764 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:03,766 [timo_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-24 10:25:03,863 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:03,863 [timo_code] INFO: Awarded -0.1 for events MOVED_LEFT
+2021-03-24 10:25:03,864 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 13
+2021-03-24 10:25:03,865 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.002s.
+2021-03-24 10:25:03,866 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:03,866 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:03,866 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:03,964 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:03,964 [timo_code] INFO: Awarded -0.1 for events MOVED_RIGHT
+2021-03-24 10:25:03,965 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 14
+2021-03-24 10:25:03,967 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:25:03,967 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:03,967 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:03,967 [timo_code] DEBUG: Choosing action purely at random.
+2021-03-24 10:25:03,967 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:04,065 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:04,065 [timo_code] INFO: Awarded -0.1 for events MOVED_LEFT
+2021-03-24 10:25:04,066 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 15
+2021-03-24 10:25:04,068 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:25:04,068 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:04,069 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:04,069 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:04,167 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:04,167 [timo_code] INFO: Awarded -0.1 for events MOVED_UP
+2021-03-24 10:25:04,168 [timo_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 16
+2021-03-24 10:25:04,170 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:25:04,170 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:04,170 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:04,170 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:04,269 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:04,269 [timo_code] INFO: Awarded -0.1 for events MOVED_DOWN
+2021-03-24 10:25:04,270 [timo_code] DEBUG: Encountered game event(s) 'MOVED_DOWN' in step 17
+2021-03-24 10:25:04,272 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:25:04,273 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:04,273 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:04,273 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:04,371 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:04,372 [timo_code] INFO: Awarded -0.1 for events MOVED_LEFT
+2021-03-24 10:25:04,373 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 18
+2021-03-24 10:25:04,375 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.004s.
+2021-03-24 10:25:04,376 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:04,376 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:04,376 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:04,473 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:04,473 [timo_code] INFO: Awarded -0.1 for events MOVED_RIGHT
+2021-03-24 10:25:04,474 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 19
+2021-03-24 10:25:04,476 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:25:04,476 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:04,476 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:04,477 [timo_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-24 10:25:04,576 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:04,576 [timo_code] INFO: Awarded -0.1 for events MOVED_LEFT
+2021-03-24 10:25:04,577 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 20
+2021-03-24 10:25:04,579 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:25:04,579 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:04,579 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:04,579 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:04,676 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:04,676 [timo_code] INFO: Awarded 19.9 for events MOVED_LEFT, COIN_COLLECTED
+2021-03-24 10:25:04,677 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT', 'COIN_COLLECTED' in step 21
+2021-03-24 10:25:04,679 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:25:04,680 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:04,680 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:04,680 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:04,777 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:04,777 [timo_code] INFO: Awarded -0.1 for events MOVED_LEFT
+2021-03-24 10:25:04,778 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 22
+2021-03-24 10:25:04,781 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:25:04,781 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:04,781 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:04,781 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:04,878 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:04,878 [timo_code] INFO: Awarded -0.1 for events MOVED_LEFT
+2021-03-24 10:25:04,879 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 23
+2021-03-24 10:25:04,880 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.002s.
+2021-03-24 10:25:04,881 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:04,881 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:04,881 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:04,981 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:04,981 [timo_code] INFO: Awarded 19.9 for events MOVED_UP, COIN_COLLECTED
+2021-03-24 10:25:04,982 [timo_code] DEBUG: Encountered game event(s) 'MOVED_UP', 'COIN_COLLECTED' in step 24
+2021-03-24 10:25:04,986 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.005s.
+2021-03-24 10:25:04,987 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:04,987 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:04,987 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:05,082 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:05,082 [timo_code] INFO: Awarded -0.1 for events MOVED_DOWN
+2021-03-24 10:25:05,083 [timo_code] DEBUG: Encountered game event(s) 'MOVED_DOWN' in step 25
+2021-03-24 10:25:05,085 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:25:05,085 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:05,086 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:05,086 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:05,183 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:05,183 [timo_code] INFO: Awarded -0.1 for events MOVED_LEFT
+2021-03-24 10:25:05,184 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 26
+2021-03-24 10:25:05,185 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.002s.
+2021-03-24 10:25:05,189 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:05,189 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:05,190 [timo_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-24 10:25:05,284 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:05,284 [timo_code] INFO: Awarded -0.1 for events MOVED_LEFT
+2021-03-24 10:25:05,285 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 27
+2021-03-24 10:25:05,287 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:25:05,288 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:05,288 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:05,288 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:05,385 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:05,385 [timo_code] INFO: Awarded -0.1 for events MOVED_LEFT
+2021-03-24 10:25:05,386 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 28
+2021-03-24 10:25:05,389 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.004s.
+2021-03-24 10:25:05,389 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:05,389 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:05,389 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:05,487 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:05,487 [timo_code] INFO: Awarded -0.1 for events MOVED_LEFT
+2021-03-24 10:25:05,488 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 29
+2021-03-24 10:25:05,490 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:25:05,490 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:05,490 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:05,491 [timo_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-24 10:25:05,588 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:05,588 [timo_code] INFO: Awarded -0.1 for events MOVED_UP
+2021-03-24 10:25:05,589 [timo_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 30
+2021-03-24 10:25:05,590 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.002s.
+2021-03-24 10:25:05,591 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:05,591 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:05,591 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:05,690 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:05,690 [timo_code] INFO: Awarded -0.1 for events MOVED_DOWN
+2021-03-24 10:25:05,691 [timo_code] DEBUG: Encountered game event(s) 'MOVED_DOWN' in step 31
+2021-03-24 10:25:05,692 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.002s.
+2021-03-24 10:25:05,693 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:05,693 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:05,693 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:05,792 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:05,792 [timo_code] INFO: Awarded -0.1 for events MOVED_RIGHT
+2021-03-24 10:25:05,794 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 32
+2021-03-24 10:25:05,795 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.002s.
+2021-03-24 10:25:05,796 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:05,796 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:05,796 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:05,894 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:05,894 [timo_code] INFO: Awarded -0.1 for events MOVED_LEFT
+2021-03-24 10:25:05,895 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 33
+2021-03-24 10:25:05,897 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:25:05,897 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:05,898 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:05,898 [timo_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-24 10:25:05,997 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:05,997 [timo_code] INFO: Awarded 19.9 for events MOVED_LEFT, COIN_COLLECTED
+2021-03-24 10:25:05,998 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT', 'COIN_COLLECTED' in step 34
+2021-03-24 10:25:06,003 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.006s.
+2021-03-24 10:25:06,003 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:06,003 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:06,003 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:06,098 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:06,098 [timo_code] INFO: Awarded -0.1 for events MOVED_RIGHT
+2021-03-24 10:25:06,099 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 35
+2021-03-24 10:25:06,100 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.002s.
+2021-03-24 10:25:06,100 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:06,100 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:06,101 [timo_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-24 10:25:06,200 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:06,200 [timo_code] INFO: Awarded -0.1 for events MOVED_UP
+2021-03-24 10:25:06,201 [timo_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 36
+2021-03-24 10:25:06,202 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.002s.
+2021-03-24 10:25:06,203 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:06,203 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:06,203 [timo_code] DEBUG: Choosing action purely at random.
+2021-03-24 10:25:06,203 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:06,301 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:06,301 [timo_code] INFO: Awarded -5 for events INVALID_ACTION
+2021-03-24 10:25:06,302 [timo_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 37
+2021-03-24 10:25:06,305 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.004s.
+2021-03-24 10:25:06,305 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:06,305 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:06,305 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:06,401 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:06,401 [timo_code] INFO: Awarded -0.1 for events MOVED_UP
+2021-03-24 10:25:06,402 [timo_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 38
+2021-03-24 10:25:06,404 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:25:06,404 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:06,404 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:06,405 [timo_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-24 10:25:06,503 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:06,503 [timo_code] INFO: Awarded -0.1 for events MOVED_LEFT
+2021-03-24 10:25:06,504 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 39
+2021-03-24 10:25:06,506 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:25:06,507 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:06,507 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:06,507 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:06,604 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:06,604 [timo_code] INFO: Awarded -0.1 for events MOVED_LEFT
+2021-03-24 10:25:06,605 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 40
+2021-03-24 10:25:06,608 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.004s.
+2021-03-24 10:25:06,608 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:06,608 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:06,608 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:06,705 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:06,705 [timo_code] INFO: Awarded -0.1 for events MOVED_LEFT
+2021-03-24 10:25:06,706 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 41
+2021-03-24 10:25:06,709 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:25:06,709 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:06,709 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:06,709 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:06,808 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:06,809 [timo_code] INFO: Awarded -0.1 for events MOVED_RIGHT
+2021-03-24 10:25:06,809 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 42
+2021-03-24 10:25:06,812 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.004s.
+2021-03-24 10:25:06,812 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:06,812 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:06,812 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:06,909 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:06,909 [timo_code] INFO: Awarded -0.1 for events MOVED_RIGHT
+2021-03-24 10:25:06,910 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 43
+2021-03-24 10:25:06,912 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:25:06,912 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:06,912 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:06,912 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:07,010 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:07,010 [timo_code] INFO: Awarded -0.1 for events MOVED_LEFT
+2021-03-24 10:25:07,011 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 44
+2021-03-24 10:25:07,013 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:25:07,013 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:07,013 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:07,013 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:07,110 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:07,110 [timo_code] INFO: Awarded -0.1 for events MOVED_LEFT
+2021-03-24 10:25:07,111 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 45
+2021-03-24 10:25:07,113 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:25:07,113 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:07,113 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:07,113 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:07,212 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:07,212 [timo_code] INFO: Awarded -0.1 for events MOVED_RIGHT
+2021-03-24 10:25:07,213 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 46
+2021-03-24 10:25:07,215 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:25:07,215 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:07,215 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:07,215 [timo_code] DEBUG: Choosing action purely at random.
+2021-03-24 10:25:07,215 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:07,313 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:07,313 [timo_code] INFO: Awarded -0.1 for events MOVED_DOWN
+2021-03-24 10:25:07,314 [timo_code] DEBUG: Encountered game event(s) 'MOVED_DOWN' in step 47
+2021-03-24 10:25:07,316 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:25:07,317 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:07,317 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:07,317 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:07,415 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:07,415 [timo_code] INFO: Awarded -0.1 for events MOVED_UP
+2021-03-24 10:25:07,416 [timo_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 48
+2021-03-24 10:25:07,418 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:25:07,419 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:07,419 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:07,419 [timo_code] DEBUG: Choosing action purely at random.
+2021-03-24 10:25:07,419 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:07,517 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:07,517 [timo_code] INFO: Awarded -0.1 for events MOVED_DOWN
+2021-03-24 10:25:07,518 [timo_code] DEBUG: Encountered game event(s) 'MOVED_DOWN' in step 49
+2021-03-24 10:25:07,520 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:25:07,520 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:07,520 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:07,521 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:07,618 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:07,618 [timo_code] INFO: Awarded -0.1 for events MOVED_UP
+2021-03-24 10:25:07,619 [timo_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 50
+2021-03-24 10:25:07,622 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:25:07,622 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:07,622 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:07,623 [timo_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-24 10:25:07,719 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:07,719 [timo_code] INFO: Awarded -0.1 for events MOVED_RIGHT
+2021-03-24 10:25:07,723 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 51
+2021-03-24 10:25:07,725 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.006s.
+2021-03-24 10:25:07,726 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:07,726 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:07,726 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:07,820 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:07,820 [timo_code] INFO: Awarded -0.1 for events MOVED_LEFT
+2021-03-24 10:25:07,821 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 52
+2021-03-24 10:25:07,823 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:25:07,823 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:07,824 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:07,824 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:07,920 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:07,920 [timo_code] INFO: Awarded -0.1 for events MOVED_LEFT
+2021-03-24 10:25:07,921 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 53
+2021-03-24 10:25:07,924 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.004s.
+2021-03-24 10:25:07,924 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:07,924 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:07,924 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:08,023 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:08,023 [timo_code] INFO: Awarded -0.1 for events MOVED_RIGHT
+2021-03-24 10:25:08,024 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 54
+2021-03-24 10:25:08,026 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:25:08,026 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:08,027 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:08,027 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:08,125 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:08,125 [timo_code] INFO: Awarded -0.1 for events MOVED_LEFT
+2021-03-24 10:25:08,126 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 55
+2021-03-24 10:25:08,128 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:25:08,129 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:08,129 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:08,129 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:08,227 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:08,227 [timo_code] INFO: Awarded -0.1 for events MOVED_RIGHT
+2021-03-24 10:25:08,228 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 56
+2021-03-24 10:25:08,230 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:25:08,230 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:08,230 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:08,230 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:08,328 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:08,328 [timo_code] INFO: Awarded -0.1 for events MOVED_UP
+2021-03-24 10:25:08,329 [timo_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 57
+2021-03-24 10:25:08,330 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.002s.
+2021-03-24 10:25:08,331 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:08,331 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:08,331 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:08,429 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:08,429 [timo_code] INFO: Awarded 19.9 for events MOVED_UP, COIN_COLLECTED
+2021-03-24 10:25:08,431 [timo_code] DEBUG: Encountered game event(s) 'MOVED_UP', 'COIN_COLLECTED' in step 58
+2021-03-24 10:25:08,434 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.005s.
+2021-03-24 10:25:08,434 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:08,434 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:08,435 [timo_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-24 10:25:08,530 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:08,530 [timo_code] INFO: Awarded -0.1 for events MOVED_RIGHT
+2021-03-24 10:25:08,531 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 59
+2021-03-24 10:25:08,533 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:25:08,533 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:08,533 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:08,535 [timo_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-24 10:25:08,632 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:08,632 [timo_code] INFO: Awarded -0.1 for events MOVED_RIGHT
+2021-03-24 10:25:08,633 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 60
+2021-03-24 10:25:08,634 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:25:08,634 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:08,634 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:08,634 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:08,733 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:08,733 [timo_code] INFO: Awarded -0.1 for events MOVED_RIGHT
+2021-03-24 10:25:08,734 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 61
+2021-03-24 10:25:08,736 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:25:08,736 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:08,737 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:08,737 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:08,834 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:08,834 [timo_code] INFO: Awarded -0.1 for events MOVED_RIGHT
+2021-03-24 10:25:08,835 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 62
+2021-03-24 10:25:08,837 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:25:08,837 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:08,837 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:08,838 [timo_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-24 10:25:08,936 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:08,936 [timo_code] INFO: Awarded -0.1 for events MOVED_LEFT
+2021-03-24 10:25:08,937 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 63
+2021-03-24 10:25:08,940 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.004s.
+2021-03-24 10:25:08,940 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:08,940 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:08,940 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:09,038 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:09,038 [timo_code] INFO: Awarded -0.1 for events MOVED_RIGHT
+2021-03-24 10:25:09,039 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 64
+2021-03-24 10:25:09,041 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:25:09,041 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:09,041 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:09,041 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:09,139 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:09,139 [timo_code] INFO: Awarded -0.1 for events MOVED_UP
+2021-03-24 10:25:09,140 [timo_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 65
+2021-03-24 10:25:09,141 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:25:09,141 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:09,141 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:09,142 [timo_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-24 10:25:09,240 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:09,240 [timo_code] INFO: Awarded -0.1 for events MOVED_UP
+2021-03-24 10:25:09,241 [timo_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 66
+2021-03-24 10:25:09,243 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:25:09,243 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:09,243 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:09,243 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:09,341 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:09,341 [timo_code] INFO: Awarded -0.1 for events MOVED_UP
+2021-03-24 10:25:09,345 [timo_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 67
+2021-03-24 10:25:09,347 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.006s.
+2021-03-24 10:25:09,347 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:09,347 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:09,348 [timo_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-24 10:25:09,442 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:09,442 [timo_code] INFO: Awarded 19.9 for events MOVED_UP, COIN_COLLECTED
+2021-03-24 10:25:09,443 [timo_code] DEBUG: Encountered game event(s) 'MOVED_UP', 'COIN_COLLECTED' in step 68
+2021-03-24 10:25:09,447 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.005s.
+2021-03-24 10:25:09,448 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:09,448 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:09,448 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:09,544 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:09,544 [timo_code] INFO: Awarded -0.1 for events MOVED_RIGHT
+2021-03-24 10:25:09,545 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 69
+2021-03-24 10:25:09,545 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-24 10:25:09,545 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:09,545 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:09,545 [timo_code] DEBUG: Choosing action purely at random.
+2021-03-24 10:25:09,546 [timo_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-24 10:25:09,644 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:09,644 [timo_code] INFO: Awarded -5 for events INVALID_ACTION
+2021-03-24 10:25:09,645 [timo_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 70
+2021-03-24 10:25:09,648 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.004s.
+2021-03-24 10:25:09,648 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:09,648 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:09,648 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:09,746 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:09,746 [timo_code] INFO: Awarded -0.1 for events MOVED_LEFT
+2021-03-24 10:25:09,748 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 71
+2021-03-24 10:25:09,748 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-24 10:25:09,748 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:09,748 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:09,748 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:09,848 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:09,848 [timo_code] INFO: Awarded -0.1 for events MOVED_RIGHT
+2021-03-24 10:25:09,849 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 72
+2021-03-24 10:25:09,849 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-24 10:25:09,850 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:09,850 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:09,850 [timo_code] DEBUG: Choosing action purely at random.
+2021-03-24 10:25:09,850 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:09,949 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:09,949 [timo_code] INFO: Awarded -0.1 for events MOVED_RIGHT
+2021-03-24 10:25:09,950 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 73
+2021-03-24 10:25:09,951 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.002s.
+2021-03-24 10:25:09,951 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:09,951 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:09,951 [timo_code] DEBUG: Choosing action purely at random.
+2021-03-24 10:25:09,952 [timo_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-24 10:25:10,050 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:10,050 [timo_code] INFO: Awarded -0.1 for events MOVED_LEFT
+2021-03-24 10:25:10,051 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 74
+2021-03-24 10:25:10,052 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.002s.
+2021-03-24 10:25:10,053 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:10,053 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:10,053 [timo_code] DEBUG: Choosing action purely at random.
+2021-03-24 10:25:10,053 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:10,152 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:10,152 [timo_code] INFO: Awarded -0.1 for events MOVED_LEFT
+2021-03-24 10:25:10,153 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 75
+2021-03-24 10:25:10,154 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.002s.
+2021-03-24 10:25:10,154 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:10,154 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:10,154 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:10,253 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:10,253 [timo_code] INFO: Awarded -0.1 for events MOVED_RIGHT
+2021-03-24 10:25:10,254 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 76
+2021-03-24 10:25:10,254 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.001s.
+2021-03-24 10:25:10,255 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:10,255 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:10,255 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:10,356 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:10,357 [timo_code] INFO: Awarded -0.1 for events MOVED_RIGHT
+2021-03-24 10:25:10,357 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 77
+2021-03-24 10:25:10,360 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.004s.
+2021-03-24 10:25:10,360 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:10,360 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:10,360 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:10,458 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:10,458 [timo_code] INFO: Awarded -0.1 for events MOVED_RIGHT
+2021-03-24 10:25:10,459 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 78
+2021-03-24 10:25:10,460 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.002s.
+2021-03-24 10:25:10,461 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:10,461 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:10,461 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:10,559 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:10,559 [timo_code] INFO: Awarded -0.1 for events MOVED_RIGHT
+2021-03-24 10:25:10,560 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 79
+2021-03-24 10:25:10,561 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.002s.
+2021-03-24 10:25:10,563 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:10,563 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:10,563 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:10,660 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:10,660 [timo_code] INFO: Awarded -0.1 for events MOVED_DOWN
+2021-03-24 10:25:10,662 [timo_code] DEBUG: Encountered game event(s) 'MOVED_DOWN' in step 80
+2021-03-24 10:25:10,663 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:25:10,663 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:10,663 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:10,664 [timo_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-24 10:25:10,761 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:10,761 [timo_code] INFO: Awarded -0.1 for events MOVED_UP
+2021-03-24 10:25:10,762 [timo_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 81
+2021-03-24 10:25:10,764 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:25:10,764 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:10,764 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:10,765 [timo_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-24 10:25:10,863 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:10,863 [timo_code] INFO: Awarded -0.1 for events MOVED_DOWN
+2021-03-24 10:25:10,864 [timo_code] DEBUG: Encountered game event(s) 'MOVED_DOWN' in step 82
+2021-03-24 10:25:10,867 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.004s.
+2021-03-24 10:25:10,867 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:10,867 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:10,867 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:10,966 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:10,967 [timo_code] INFO: Awarded -0.1 for events MOVED_UP
+2021-03-24 10:25:10,968 [timo_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 83
+2021-03-24 10:25:10,970 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.004s.
+2021-03-24 10:25:10,970 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:10,970 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:10,970 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:11,064 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:11,064 [timo_code] INFO: Awarded -0.1 for events MOVED_DOWN
+2021-03-24 10:25:11,065 [timo_code] DEBUG: Encountered game event(s) 'MOVED_DOWN' in step 84
+2021-03-24 10:25:11,067 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:25:11,067 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:11,067 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:11,067 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:11,166 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:11,166 [timo_code] INFO: Awarded -0.1 for events MOVED_UP
+2021-03-24 10:25:11,167 [timo_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 85
+2021-03-24 10:25:11,170 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.004s.
+2021-03-24 10:25:11,170 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:11,170 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:11,170 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:11,267 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:11,267 [timo_code] INFO: Awarded -0.1 for events MOVED_DOWN
+2021-03-24 10:25:11,269 [timo_code] DEBUG: Encountered game event(s) 'MOVED_DOWN' in step 86
+2021-03-24 10:25:11,270 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:25:11,270 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:11,270 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:11,270 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:11,368 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:11,368 [timo_code] INFO: Awarded -0.1 for events MOVED_UP
+2021-03-24 10:25:11,371 [timo_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 87
+2021-03-24 10:25:11,374 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.006s.
+2021-03-24 10:25:11,375 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:11,375 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:11,375 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:11,471 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:11,471 [timo_code] INFO: Awarded -0.1 for events MOVED_DOWN
+2021-03-24 10:25:11,472 [timo_code] DEBUG: Encountered game event(s) 'MOVED_DOWN' in step 88
+2021-03-24 10:25:11,474 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.004s.
+2021-03-24 10:25:11,474 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:11,474 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:11,474 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:11,572 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:11,572 [timo_code] INFO: Awarded -0.1 for events MOVED_UP
+2021-03-24 10:25:11,573 [timo_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 89
+2021-03-24 10:25:11,575 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:25:11,575 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:11,575 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:11,575 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:11,675 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:11,675 [timo_code] INFO: Awarded -0.1 for events MOVED_RIGHT
+2021-03-24 10:25:11,676 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 90
+2021-03-24 10:25:11,678 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:25:11,679 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:11,679 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:11,679 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:11,777 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:11,777 [timo_code] INFO: Awarded -0.1 for events MOVED_RIGHT
+2021-03-24 10:25:11,778 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 91
+2021-03-24 10:25:11,779 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.002s.
+2021-03-24 10:25:11,780 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:11,780 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:11,780 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:11,879 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:11,879 [timo_code] INFO: Awarded 19.9 for events MOVED_DOWN, COIN_COLLECTED
+2021-03-24 10:25:11,883 [timo_code] DEBUG: Encountered game event(s) 'MOVED_DOWN', 'COIN_COLLECTED' in step 92
+2021-03-24 10:25:11,889 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.009s.
+2021-03-24 10:25:11,890 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:11,890 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:11,890 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:11,980 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:11,980 [timo_code] INFO: Awarded -0.1 for events MOVED_DOWN
+2021-03-24 10:25:11,981 [timo_code] DEBUG: Encountered game event(s) 'MOVED_DOWN' in step 93
+2021-03-24 10:25:11,983 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:25:11,983 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:11,983 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:11,983 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:12,082 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:12,082 [timo_code] INFO: Awarded -0.1 for events MOVED_DOWN
+2021-03-24 10:25:12,082 [timo_code] DEBUG: Encountered game event(s) 'MOVED_DOWN' in step 94
+2021-03-24 10:25:12,084 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:25:12,085 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:12,085 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:12,085 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:12,184 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:12,184 [timo_code] INFO: Awarded -0.1 for events MOVED_DOWN
+2021-03-24 10:25:12,185 [timo_code] DEBUG: Encountered game event(s) 'MOVED_DOWN' in step 95
+2021-03-24 10:25:12,186 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.002s.
+2021-03-24 10:25:12,186 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:12,187 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:12,187 [timo_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-24 10:25:12,286 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:12,286 [timo_code] INFO: Awarded -0.1 for events MOVED_DOWN
+2021-03-24 10:25:12,287 [timo_code] DEBUG: Encountered game event(s) 'MOVED_DOWN' in step 96
+2021-03-24 10:25:12,289 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:25:12,289 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:12,289 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:12,290 [timo_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-24 10:25:12,386 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:12,386 [timo_code] INFO: Awarded -0.1 for events MOVED_DOWN
+2021-03-24 10:25:12,387 [timo_code] DEBUG: Encountered game event(s) 'MOVED_DOWN' in step 97
+2021-03-24 10:25:12,389 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:25:12,389 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:12,389 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:12,390 [timo_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-24 10:25:12,489 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:12,489 [timo_code] INFO: Awarded -0.1 for events MOVED_DOWN
+2021-03-24 10:25:12,490 [timo_code] DEBUG: Encountered game event(s) 'MOVED_DOWN' in step 98
+2021-03-24 10:25:12,491 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.002s.
+2021-03-24 10:25:12,491 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:12,491 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:12,492 [timo_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-24 10:25:12,590 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:12,590 [timo_code] INFO: Awarded -0.1 for events MOVED_DOWN
+2021-03-24 10:25:12,591 [timo_code] DEBUG: Encountered game event(s) 'MOVED_DOWN' in step 99
+2021-03-24 10:25:12,594 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:25:12,594 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:12,594 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:12,594 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:12,691 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:12,691 [timo_code] INFO: Awarded -0.1 for events MOVED_DOWN
+2021-03-24 10:25:12,692 [timo_code] DEBUG: Encountered game event(s) 'MOVED_DOWN' in step 100
+2021-03-24 10:25:12,693 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.002s.
+2021-03-24 10:25:12,694 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:12,694 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:12,694 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:12,794 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:12,794 [timo_code] INFO: Awarded -0.1 for events MOVED_DOWN
+2021-03-24 10:25:12,795 [timo_code] DEBUG: Encountered game event(s) 'MOVED_DOWN' in step 101
+2021-03-24 10:25:12,797 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:25:12,797 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:12,798 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:12,798 [timo_code] DEBUG: Choosing action purely at random.
+2021-03-24 10:25:12,798 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:12,896 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:12,896 [timo_code] INFO: Awarded -0.1 for events MOVED_DOWN
+2021-03-24 10:25:12,897 [timo_code] DEBUG: Encountered game event(s) 'MOVED_DOWN' in step 102
+2021-03-24 10:25:12,899 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:25:12,899 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:12,899 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:12,900 [timo_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-24 10:25:12,998 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:12,998 [timo_code] INFO: Awarded -0.1 for events MOVED_DOWN
+2021-03-24 10:25:12,999 [timo_code] DEBUG: Encountered game event(s) 'MOVED_DOWN' in step 103
+2021-03-24 10:25:13,000 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.002s.
+2021-03-24 10:25:13,000 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:13,000 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:13,001 [timo_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-24 10:25:13,099 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:13,099 [timo_code] INFO: Awarded -0.1 for events MOVED_DOWN
+2021-03-24 10:25:13,100 [timo_code] DEBUG: Encountered game event(s) 'MOVED_DOWN' in step 104
+2021-03-24 10:25:13,101 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.002s.
+2021-03-24 10:25:13,102 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:13,102 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:13,102 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:13,200 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:13,200 [timo_code] INFO: Awarded -0.1 for events MOVED_DOWN
+2021-03-24 10:25:13,201 [timo_code] DEBUG: Encountered game event(s) 'MOVED_DOWN' in step 105
+2021-03-24 10:25:13,203 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:25:13,203 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:13,203 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:13,204 [timo_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-24 10:25:13,301 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:13,301 [timo_code] INFO: Awarded -0.1 for events MOVED_RIGHT
+2021-03-24 10:25:13,305 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 106
+2021-03-24 10:25:13,308 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.007s.
+2021-03-24 10:25:13,308 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:13,308 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:13,308 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:13,401 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:13,401 [timo_code] INFO: Awarded -0.1 for events MOVED_LEFT
+2021-03-24 10:25:13,402 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 107
+2021-03-24 10:25:13,404 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:25:13,404 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:13,404 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:13,404 [timo_code] DEBUG: Choosing action purely at random.
+2021-03-24 10:25:13,404 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:13,503 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:13,503 [timo_code] INFO: Awarded -0.1 for events MOVED_LEFT
+2021-03-24 10:25:13,504 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 108
+2021-03-24 10:25:13,507 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.004s.
+2021-03-24 10:25:13,507 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:13,507 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:13,507 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:13,604 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:13,604 [timo_code] INFO: Awarded -0.1 for events MOVED_LEFT
+2021-03-24 10:25:13,605 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 109
+2021-03-24 10:25:13,608 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.004s.
+2021-03-24 10:25:13,608 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:13,608 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:13,608 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:13,705 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:13,705 [timo_code] INFO: Awarded -0.1 for events MOVED_RIGHT
+2021-03-24 10:25:13,706 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 110
+2021-03-24 10:25:13,708 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:25:13,708 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:13,708 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:13,708 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:13,805 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:13,805 [timo_code] INFO: Awarded -0.1 for events MOVED_LEFT
+2021-03-24 10:25:13,806 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 111
+2021-03-24 10:25:13,809 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.004s.
+2021-03-24 10:25:13,809 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:13,809 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:13,809 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:13,905 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:13,905 [timo_code] INFO: Awarded -0.1 for events MOVED_LEFT
+2021-03-24 10:25:13,906 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 112
+2021-03-24 10:25:13,909 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:25:13,909 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:13,909 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:13,909 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:14,008 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:14,008 [timo_code] INFO: Awarded 19.9 for events MOVED_LEFT, COIN_COLLECTED
+2021-03-24 10:25:14,009 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT', 'COIN_COLLECTED' in step 113
+2021-03-24 10:25:14,014 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.006s.
+2021-03-24 10:25:14,014 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:14,014 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:14,014 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:14,110 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:14,110 [timo_code] INFO: Awarded -0.1 for events MOVED_RIGHT
+2021-03-24 10:25:14,111 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 114
+2021-03-24 10:25:14,113 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:25:14,113 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:14,113 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:14,113 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:14,212 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:14,212 [timo_code] INFO: Awarded -0.1 for events MOVED_LEFT
+2021-03-24 10:25:14,213 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 115
+2021-03-24 10:25:14,214 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.002s.
+2021-03-24 10:25:14,214 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:14,214 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:14,214 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:14,313 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:14,313 [timo_code] INFO: Awarded -0.1 for events MOVED_UP
+2021-03-24 10:25:14,313 [timo_code] DEBUG: Encountered game event(s) 'MOVED_UP' in step 116
+2021-03-24 10:25:14,315 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:25:14,315 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:14,315 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:14,316 [timo_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-24 10:25:14,414 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:14,414 [timo_code] INFO: Awarded -0.1 for events MOVED_DOWN
+2021-03-24 10:25:14,415 [timo_code] DEBUG: Encountered game event(s) 'MOVED_DOWN' in step 117
+2021-03-24 10:25:14,417 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:25:14,417 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:14,417 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:14,417 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:14,515 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:14,515 [timo_code] INFO: Awarded -0.1 for events MOVED_LEFT
+2021-03-24 10:25:14,516 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 118
+2021-03-24 10:25:14,518 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:25:14,518 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:14,518 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:14,518 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:14,617 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:14,617 [timo_code] INFO: Awarded -0.1 for events MOVED_LEFT
+2021-03-24 10:25:14,618 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 119
+2021-03-24 10:25:14,620 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:25:14,620 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:14,620 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:14,620 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:14,718 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:14,718 [timo_code] INFO: Awarded -0.1 for events MOVED_LEFT
+2021-03-24 10:25:14,719 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 120
+2021-03-24 10:25:14,720 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.002s.
+2021-03-24 10:25:14,720 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:14,720 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:14,721 [timo_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-24 10:25:14,818 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:14,818 [timo_code] INFO: Awarded -0.1 for events MOVED_RIGHT
+2021-03-24 10:25:14,819 [timo_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 121
+2021-03-24 10:25:14,821 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:25:14,821 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:14,822 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:14,822 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:14,924 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:14,924 [timo_code] INFO: Awarded -0.1 for events MOVED_LEFT
+2021-03-24 10:25:14,925 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 122
+2021-03-24 10:25:14,927 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:25:14,927 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:14,927 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:14,927 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:15,026 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:15,026 [timo_code] INFO: Awarded -0.1 for events MOVED_LEFT
+2021-03-24 10:25:15,027 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 123
+2021-03-24 10:25:15,028 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.003s.
+2021-03-24 10:25:15,028 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:15,028 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:15,028 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:15,128 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:15,128 [timo_code] INFO: Awarded -0.1 for events MOVED_LEFT
+2021-03-24 10:25:15,129 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 124
+2021-03-24 10:25:15,130 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.002s.
+2021-03-24 10:25:15,131 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:15,131 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:15,131 [timo_wrapper] DEBUG: Got result from callback#act in 0.000s.
+2021-03-24 10:25:15,230 [timo_wrapper] DEBUG: Calling game_events_occurred on callback.
+2021-03-24 10:25:15,230 [timo_code] INFO: Awarded -0.1 for events MOVED_LEFT
+2021-03-24 10:25:15,231 [timo_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 125
+2021-03-24 10:25:15,232 [timo_wrapper] DEBUG: Got result from callback#game_events_occurred in 0.002s.
+2021-03-24 10:25:15,232 [timo_wrapper] DEBUG: Calling act on callback.
+2021-03-24 10:25:15,232 [timo_code] INFO: Picking action according to rule set
+2021-03-24 10:25:15,233 [timo_wrapper] DEBUG: Got result from callback#act in 0.001s.
+2021-03-24 10:25:15,233 [timo_wrapper] DEBUG: Calling end_of_round on callback.
+2021-03-24 10:25:15,233 [timo_code] DEBUG: Encountered event(s) 'MOVED_LEFT', 'COIN_COLLECTED', 'SURVIVED_ROUND' in final step
+2021-03-24 10:25:15,233 [timo_code] INFO: Awarded 19.9 for events MOVED_LEFT, COIN_COLLECTED, SURVIVED_ROUND
+2021-03-24 10:25:15,240 [timo_wrapper] DEBUG: Got result from callback#end_of_round in 0.006s.
